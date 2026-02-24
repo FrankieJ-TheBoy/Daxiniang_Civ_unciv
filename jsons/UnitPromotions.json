@@ -1,25 +1,25 @@
 [
 	{
-		"name": "西娘升级I",
+		"name": "XiniangUpgradeI",
 		"uniques": ["[+24] Strength"],
-		"unitTypes": ["西娘"]
+		"unitTypes": ["Xiniang"]
 	},
 	{
-		"name": "西娘升级II",
+		"name": "XiniangUpgradeII",
 		"uniques": ["[+48] Strength"],
-		"prerequisites": ["西娘升级I"],
-		"unitTypes": ["西娘"]
+		"prerequisites": ["XiniangUpgradeI"],
+		"unitTypes": ["Xiniang"]
 	},
 	{
-		"name": "西娘升级III",
+		"name": "XiniangUpgradeIII",
 		"uniques": ["[+96] Strength"],
-		"prerequisites": ["西娘升级II"],
-		"unitTypes": ["西娘"]
+		"prerequisites": ["XiniangUpgradeII"],
+		"unitTypes": ["Xiniang"]
 	},
 	{
-		"name": "西娘升级IV",
+		"name": "XiniangUpgradeIV",
 		"uniques": ["[+192] Strength"],
-		"prerequisites": ["西娘升级III"],
-		"unitTypes": ["西娘"]
+		"prerequisites": ["XiniangUpgradeIII"],
+		"unitTypes": ["Xiniang"]
 	}
 ]

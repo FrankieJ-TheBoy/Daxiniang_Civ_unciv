@@ -25,7 +25,7 @@ NationIcons/Aliens
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/大西娘AI文明
+NationIcons/DaXiniangAICivilization
   rotate: false
   xy: 436, 4
   size: 100, 100
@@ -39,7 +39,7 @@ UnitIcons/Phasers
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/西娘
+UnitIcons/Xiniang
   rotate: false
   xy: 544, 4
   size: 100, 100
