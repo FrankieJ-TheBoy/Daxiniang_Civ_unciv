@@ -36,9 +36,9 @@
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	},
 	{
-		"name": "DaXiniangAICivilization",
-		"leaderName": "Xiniang",
-		"adjective": ["DaXiniang"],
+		"name": "大西娘AI文明",
+		"leaderName": "西娘",
+		"adjective": ["大西娘"],
 		"preferredVictoryType": "Domination",
 		"uniques": ["[+2 Production, +2 Gold, +2 Science] from [improved] tiles [in this city]"],
 		"outerColor": [183,132,140],

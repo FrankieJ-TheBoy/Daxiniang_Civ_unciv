@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Xiniang",
-		"unitType": "Xiniang",
-		"uniqueTo": "DaXiniangAICivilization",
+		"name": "西娘",
+		"unitType": "西娘",
+		"uniqueTo": "大西娘AI文明",
 		"movement": 12,
 		"strength": 24,
 		"rangedStrength": 24,
@@ -12,9 +12,9 @@
 		"attackSound": "laser"
 	},
 	{
-		"name": "XiniangGuardI",
+		"name": "西娘卫队I",
 		"unitType": "Sword",
-		"uniqueTo": "DaXiniangAICivilization",
+		"uniqueTo": "大西娘AI文明",
 		"replaces": "Warrior",
 		"movement": 2,
 		"strength": 12,
@@ -25,9 +25,9 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "XiniangGuardII",
+		"name": "西娘卫队II",
 		"unitType": "Sword",
-		"uniqueTo": "DaXiniangAICivilization",
+		"uniqueTo": "大西娘AI文明",
 		"replaces": "Swordsman",
 		"movement": 2,
 		"strength": 18,
@@ -39,9 +39,9 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "XiniangGuardIII",
+		"name": "西娘卫队III",
 		"unitType": "Sword",
-		"uniqueTo": "DaXiniangAICivilization",
+		"uniqueTo": "大西娘AI文明",
 		"replaces": "Longswordsman",
 		"movement": 2,
 		"strength": 25,
@@ -53,9 +53,9 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "XiniangGuardIV",
+		"name": "西娘卫队IV",
 		"unitType": "Gunpowder",
-		"uniqueTo": "DaXiniangAICivilization",
+		"uniqueTo": "大西娘AI文明",
 		"replaces": "Musketman",
 		"movement": 2,
 		"strength": 28,
@@ -66,9 +66,9 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "XiniangGuardV",
+		"name": "西娘卫队V",
 		"unitType": "Gunpowder",
-		"uniqueTo": "DaXiniangAICivilization",
+		"uniqueTo": "大西娘AI文明",
 		"replaces": "Rifleman",
 		"movement": 2,
 		"strength": 38,
@@ -79,9 +79,9 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "XiniangGuardVI",
+		"name": "西娘卫队VI",
 		"unitType": "Gunpowder",
-		"uniqueTo": "DaXiniangAICivilization",
+		"uniqueTo": "大西娘AI文明",
 		"replaces": "Great War Infantry",
 		"movement": 2,
 		"strength": 60,
@@ -92,9 +92,9 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "XiniangGuardVII",
+		"name": "西娘卫队VII",
 		"unitType": "Gunpowder",
-		"uniqueTo": "DaXiniangAICivilization",
+		"uniqueTo": "大西娘AI文明",
 		"replaces": "Infantry",
 		"movement": 2,
 		"strength": 82,
@@ -105,9 +105,9 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "XiniangGuardVIII",
+		"name": "西娘卫队VIII",
 		"unitType": "Gunpowder",
-		"uniqueTo": "DaXiniangAICivilization",
+		"uniqueTo": "大西娘AI文明",
 		"replaces": "Mechanized Infantry",
 		"movement": 3,
 		"strength": 104,
