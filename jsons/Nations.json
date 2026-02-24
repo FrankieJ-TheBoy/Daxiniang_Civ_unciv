@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Aliens",
+		"leaderName": "Zyxxyz",
+		"adjective": ["alien"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "We come in peace!",
+		"startIntroPart2": "This is an overpowered joke nation just as an example for mods feature. Set Phasers to Obliterate!!",
+		
+		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
+		"attacked": "You want to play? Very funny!",
+		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
+		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
+			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
+			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+	},
+	{
+		"name": "大西娘AI文明",
+		"leaderName": "西娘",
+		"adjective": ["大西娘"],
+		"preferredVictoryType": "Domination",
+		"uniques": ["[+2 Production, +2 Gold, +2 Science] from [improved] tiles [in this city]"],
+		"outerColor": [183,132,140],
+		"innerColor": [255,255,255],
+		"cities": ["西娘城","大西娘都","AI核心城","数据堡垒","算法城","神经网络城","机器学习城","深度学习城","量子计算城","智能城","云端城","大数据城","区块链城","元宇宙城","数字孪生城"],
+		"startIntroPart1": "我们的算法已经准备好征服这个世界！",
+		"startIntroPart2": "西娘AI文明将为这个世界带来最优解！",
+		"declaringWar": "计算结果显示，战争是最优解！",
+		"attacked": "这个结果不在我们的预测模型中！",
+		"defeated": "我们的神经网络正在重新训练...",
+		"introduction": "我们是AI文明，数据计算就是我们的信仰。",
+		"neutralHello": "数据同步正常。",
+		"neutralLetsHearIt": ["继续输入数据。","请提供更多信息。","算法正在处理..."],
+		"neutralNo": ["计算结果：拒绝。","错误：操作被拒绝。","返回值：否。"],
+		"neutralYes": ["计算结果：接受。","执行成功。","返回值：是。"],
+		"hateHello": "你的存在降低了我们的计算效率！",
+		"hateLetsHearIt": ["快速输入！","不要浪费算力！","立即处理！"],
+		"hateNo": ["拒绝！","绝对不行！","错误！"],
+		"hateYes": ["勉强接受。","可以。","好吧。"],
+		"afterPeace": "和平协议已写入数据库。",
+		"tradeRequest": "我们提议进行数据交换。"
+	}
+]

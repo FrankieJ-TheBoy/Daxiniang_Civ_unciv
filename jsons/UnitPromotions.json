@@ -1,0 +1,25 @@
+[
+	{
+		"name": "西娘升级I",
+		"uniques": ["[+24] Strength"],
+		"unitTypes": ["西娘"]
+	},
+	{
+		"name": "西娘升级II",
+		"uniques": ["[+48] Strength"],
+		"prerequisites": ["西娘升级I"],
+		"unitTypes": ["西娘"]
+	},
+	{
+		"name": "西娘升级III",
+		"uniques": ["[+96] Strength"],
+		"prerequisites": ["西娘升级II"],
+		"unitTypes": ["西娘"]
+	},
+	{
+		"name": "西娘升级IV",
+		"uniques": ["[+192] Strength"],
+		"prerequisites": ["西娘升级III"],
+		"unitTypes": ["西娘"]
+	}
+]
