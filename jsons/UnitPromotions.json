@@ -6,7 +6,7 @@
 	},
 	{
 		"name": "西娘升级II",
-		"uniques": ["[+48] Strength", "Can attack 1 additional times per turn"],
+		"uniques": ["[+48] Strength", "[1] additional attacks per turn"],
 		"prerequisites": ["西娘升级I"],
 		"unitTypes": ["西娘"]
 	},

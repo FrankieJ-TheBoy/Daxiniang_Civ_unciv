@@ -40,7 +40,7 @@
 		"leaderName": "西娘",
 		"adjective": ["大西娘"],
 		"preferredVictoryType": "Domination",
-		"uniques": ["[+2 Production, +2 Gold, +2 Science] from [improved] tiles [in this city]"],
+		"uniques": ["[+2 Production, +2 Gold, +2 Science] from [improved] tiles [in this city]", "[Siege] units gain the [Extended Range] promotion"],
 		"outerColor": [183,132,140],
 		"innerColor": [255,255,255],
 		"cities": ["西娘城","大西娘都","AI核心城","数据堡垒","算法城","神经网络城","机器学习城","深度学习城","量子计算城","智能城","云端城","大数据城","区块链城","元宇宙城","数字孪生城"],
