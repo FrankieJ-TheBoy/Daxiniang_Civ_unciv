@@ -1,7 +1,7 @@
 [
 	{
 		"name": "西娘升级I",
-		"uniques": ["[+24] Strength"],
+		"uniques": ["[+24] Strength", "May capture killed [All] units"],
 		"unitTypes": ["西娘"]
 	},
 	{
