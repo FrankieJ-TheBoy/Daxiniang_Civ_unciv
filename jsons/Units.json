@@ -8,7 +8,12 @@
 		"rangedStrength": 24,
 		"range": 4,
 		"cost": 1,
-		"uniques": ["Limited to [3] per Civilization"],
+		"interceptRange" : 2,
+		"uniques": [
+			"Limited to [3] per Civilization", 
+			"[100]% chance to intercept air attacks", 
+			"May travel on Water tiles without embarking"
+		],
 		"attackSound": "laser"
 	},
 	{
